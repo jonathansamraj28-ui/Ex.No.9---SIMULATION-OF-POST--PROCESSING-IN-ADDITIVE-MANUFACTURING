@@ -46,9 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![WhatsApp Image 2025-12-27 at 3 43 37 PM](https://github.com/user-attachments/assets/b3c92ec3-c8bc-4494-a5b1-1d0dcea140ad)
 
-### Name:
-### Register Number:
+![WhatsApp Image 2025-12-27 at 3 43 37 PM (1)](https://github.com/user-attachments/assets/d743a5ad-e83d-4793-a081-e4bb72abd53f)
+
+![WhatsApp Image 2025-12-27 at 3 43 38 PM](https://github.com/user-attachments/assets/adec1bfe-80ff-40ca-9b97-c8d91ebf8b91)
+
+### Name:jonathan samraj A
+### Register Number:25013505
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
